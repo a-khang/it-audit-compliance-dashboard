@@ -1,4 +1,3 @@
-# it-audit-compliance-dashboard
+# gitc-audit-home-lab
 
 ## Purpose
-This program is designed to take in 
